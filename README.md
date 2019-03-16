@@ -1,4 +1,4 @@
-# IOC-DI
+# php-ioc-di
 一套使用PHP实现的基于DI模式的IOC容器
 借助 PHP 反射机制实现的一套 依赖自动解析注入 的 IOC/DI 容器，可以方便作为 Web MVC 框架 的应用容器。
 
